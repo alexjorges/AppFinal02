@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Gestion De Diabetes</string>
+    <string name="tab_text_1">Registros</string>
+    <string name="tab_text_2">Añadir Medicion</string>
+    <string name="tab_text_3">Borrar Registro</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <string name="tvAñadirMedida">Introducir Medición</string>
+    <string name="tvFechaLista">Fecha</string>
+    <string name="tvGlucosaLista">Glucosa</string>
+    <string name="tvmg_dl">mg/dL</string>
+
+    <string name="etDia">Fecha</string>
+    <string name="etGlucosa">Glucosa</string>
+    <string name="etKilometros">Km Andados</string>
+    <string name="tvBORRAR_MEDICION">BORRAR MEDICIÓN</string>
+    <string name="etDiaBorrar">Dia a borrar</string>
+    <string name="mg_dL">mg/dL</string>
+    <string name="Km">Km</string>
+    <string name="gramos">- g</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="etCarbohidratos">Carbohidratos</string>
+    <string name="etFecha">Fecha</string>
+    <string name="etPeso">Peso</string>
+    <string name="tvPeso">Peso</string>
+    <string name="tvKg">Kg</string>
+</resources>
